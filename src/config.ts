@@ -28,7 +28,7 @@ export const CONFIG = {
    */
   auth: {
     usernameSha256: '14d6617a1ef3cdd9ca467979bf5024f3f46206582a1e7d8066471f10ad8bf748',
-    passwordSha256: '9033d010904f493397296c5cdb334b211e12868b17c83ac1fc198ce756289284',
+    passwordSha256: 'e0bc60c82713f64ef8a57c0c40d02ce24fd0141d5cc3086259c19b1e62a62bea',
     /** "Keep me signed in" duration */
     rememberDays: 30,
   },
